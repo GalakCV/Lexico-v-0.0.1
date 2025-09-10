@@ -1,0 +1,9 @@
+inteiro x, y;
+real z;
+x = 10;
+y = 20;
+se (x < y) {
+    mostrar x;
+} senao {
+    mostrar y;
+}
